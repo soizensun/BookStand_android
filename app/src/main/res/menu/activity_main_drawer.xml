@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/allBook"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="All book" />
+        <item
+            android:id="@+id/myBook"
+            android:icon="@drawable/ic_assignment_ind_black_24dp"
+            android:title="My book" />
+        <item
+            android:id="@+id/myBasket"
+            android:icon="@drawable/ic_shopping_basket_black_24dp"
+            android:title="My basket" />
+
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_remove_circle_outline_black_24dp"
+                android:title="logout" />
+        </menu>
+    </item>
+
+</menu>
