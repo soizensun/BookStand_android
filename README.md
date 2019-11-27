@@ -1,5 +1,5 @@
 # android project
-> Open project with android studio version 3.0 upper
+> Open project with android studio version 3.0 upper   and     
 > sync project before run
 
 # dependency
