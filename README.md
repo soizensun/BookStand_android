@@ -1,6 +1,6 @@
 # BookStand  < android project >
 > Open project with android studio version 3.0 upper   and     
-> sync project before run
+> **sync** project before run
 
 ## dependency
     implementation 'com.google.firebase:firebase-auth:11.8.0'
